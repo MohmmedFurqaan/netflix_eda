@@ -29,7 +29,7 @@
 1. clone the repository in your local directory of your machine 
 
 ```code
-git clone https://github.com/MohmmedFurqaan/
+git clone https://github.com/MohmmedFurqaan/netflix_eda.git
 ```
 
 2. Let's setup the envinoment
