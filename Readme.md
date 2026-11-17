@@ -24,6 +24,8 @@
    - [3.2 Movie and TV shows shares](#3.2-Movie-and-TV-shows-shares)
    - [3.3 Title Propotion in Netflix](#3.3-Title-added-propotion)
    - [3.4 Top Genre Production](#3.4-Top-Genre-Production)
+   - [3.5 Top Country Production title in netflix](#3.5-Top-country-title-production)
+   - [3.6 Content Rating by the type](#3.6-Content-rating-by-type-distribution)
 
 
 ## 1. Installation
@@ -79,3 +81,21 @@ As mention in the task pdf, below is the report based on the given netflix data.
 > From the below graph, it is concluded that the **top genre produced up by the netflix is of Dramas Internation Movies which is 362** among all the other genres. 
 
 ![Top Genre Propduction by netflix](data/output/figure/004_genre_production.png)
+
+### 3.5 Top country title production 
+> Based on the below graph, **USA** is the most leading country producing around the *3527* title in the netflix.
+
+![Top country title production](data/output/figure/005_country_production.png)
+
+### 3.6 Content rating by type distribution
+> Based on the below heatmap, the findings are in the tabel
+
+| Key Finding | Movies | TV Shows |
+|---|---|---|
+| Most Common Rating | TV-MA (2,062) | TV-MA (1,143) |
+| Second Most Common Rating | TV-14 (1,426) | TV-14 (729) |
+| Adult-oriented Ratings (R) | 796 | 2 |
+| Family / Children-oriented Ratings (TV-Y, TV-Y7, TV-G) | 395 | 463 |
+| Other Notable Rating | PG-13 (490) | TV-PG (321) |
+
+![Content rating by type distribution](data/output/figure/006_content_rating_by_type.png)
