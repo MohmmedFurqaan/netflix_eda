@@ -22,6 +22,8 @@
 3. [Data Insights](#3.-Data-Insights)
    - [3.1 Content type distribution](#3.1-Content-Type-Distribution)
    - [3.2 Movie and TV shows shares](#3.2-Movie-and-TV-shows-shares)
+   - [3.3 Title Propotion in Netflix](#3.3-Title-added-propotion)
+   - [3.4 Top Genre Production](#3.4-Top-Genre-Production)
 
 
 ## 1. Installation
@@ -67,3 +69,13 @@ As mention in the task pdf, below is the report based on the given netflix data.
 > Below graph shows about how many season for TV shows and how much duration of the movies is there in the dataset.
 
 ![Movie and TV shows shares](data/output/figure/002_runtime_distribution.png)
+
+### 3.3 Title added propotion
+> Based on the below graph we can clearly says that most **title added is in the year 2018 for the movie** while **Most added TV Shows is in 2020**.
+
+![Title Added from 205 - 2021](data/output/figure/003_title_propotion_per_year.png)
+
+### 3.4 Top Genre Production
+> From the below graph, it is concluded that the **top genre produced up by the netflix is of Dramas Internation Movies which is 362** among all the other genres. 
+
+![Top Genre Propduction by netflix](data/output/figure/004_genre_production.png)
